@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87804172720",
+    "project_id": "aqar-property",
+    "storage_bucket": "aqar-property.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87804172720:android:988b5e135a70b960619e75",
+        "android_client_info": {
+          "package_name": "com.example.aqar_property"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87804172720-hfoqolnq2apckodonksau6c7oddmv88m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aqar_property",
+            "certificate_hash": "59e1fc3517639429a017340172d91a5722ced751"
+          }
+        },
+        {
+          "client_id": "87804172720-biec4ba3sparq7afjldcsijq57hvsv85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOlbKFS0W2zKPEYQDgjA9GLa3jnShv5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87804172720-biec4ba3sparq7afjldcsijq57hvsv85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
